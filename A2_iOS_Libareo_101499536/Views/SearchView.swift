@@ -1,3 +1,4 @@
+// Search view using dynamic NSPredicate on name and description
 // SearchView.swift
 // A2_iOS_Libareo_101499536
 // Libareo Barbour — 101499536
