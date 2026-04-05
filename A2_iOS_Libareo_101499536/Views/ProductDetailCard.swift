@@ -15,7 +15,7 @@ struct ProductDetailCard: View {
             // Header bar with category colour
             HStack {
                 VStack(alignment: .leading, spacing: 4) {
-                    Text("PRODUCT DETAILS")
+                    Text("PRODUCT info")
                         .font(.caption2.bold())
                         .tracking(2)
                         .foregroundColor(.white.opacity(0.75))
