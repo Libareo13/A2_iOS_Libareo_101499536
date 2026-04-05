@@ -1,3 +1,4 @@
+// Form view for adding a new product to Core Data
 // AddProductView.swift
 // A2_iOS_Libareo_101499536
 // Libareo Barbour — 101499536
