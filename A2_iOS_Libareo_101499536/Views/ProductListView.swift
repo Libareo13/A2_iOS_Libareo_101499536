@@ -1,3 +1,5 @@
+// Displays all products in a scrollable list with swipe-to-delete
+// Added ProductRowView below
 // ProductListView.swift
 // A2_iOS_Libareo_101499536
 // Libareo Barbour — 101499536
