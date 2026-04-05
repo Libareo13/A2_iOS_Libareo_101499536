@@ -63,7 +63,7 @@ struct ContentView: View {
                     }
                 }
             }
-            .navigationTitle("Product Viewer")
+            .navigationTitle("-Product Viewer-")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
