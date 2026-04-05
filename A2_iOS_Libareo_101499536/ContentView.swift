@@ -47,7 +47,7 @@ struct ContentView: View {
                         ProductDetailCard(product: products[currentIndex])
                             .padding(.horizontal)
                             .padding(.top, 8)
-                            .id(currentIndex) // triggers re-render + animation on index change
+                            .id(currentIndex) // triggers re-render and animation on index change
                             .transition(.asymmetric(
                                 insertion: .move(edge: .trailing).combined(with: .opacity),
                                 removal: .move(edge: .leading).combined(with: .opacity)
